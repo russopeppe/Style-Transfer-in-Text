@@ -21,6 +21,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Formality Style Transfer with Shared Latent Space, COLING 2020, [[paper]](https://www.aclweb.org/anthology/2020.coling-main.203.pdf)
 
 ## Unsupervised (Non-parallel Data)
+- Control, Generate, Augment: A Scalable Framework for Multi-Attribute Text Generation, EMNLP 2020, [[paper]](https://aclanthology.org/2020.findings-emnlp.33.pdf), [[code]](https://github.com/DS3Lab/control-generate-augment)
 - Sequence to Better Sequence: Continuous Revision of Combinatorial Structures, ICML-2017, [[paper]](http://proceedings.mlr.press/v70/mueller17a.html), [[code]](https://bitbucket.org/jwmueller/sequence-to-better-sequence/)
 - Toward Controlled Generation of Text, ICML-2017, [[paper]](https://arxiv.org/pdf/1703.00955), [[official code]](https://github.com/asyml/texar/tree/master/examples/text_style_transfer), [[unofficial code]](https://github.com/GBLin5566/toward-controlled-generation-of-text-pytorch)
 - Style Transfer from Non-Parallel Text by Cross-Alignment, NIPS-2017, [[paper]](https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf), [[code]](https://github.com/shentianxiao/language-style-transfer)
